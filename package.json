@@ -1,0 +1,19 @@
+{
+  "name": "langchain-example",
+  "version": "1.0.0",
+  "main": "ai.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matías Nápoli",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@langchain/core": "^0.3.27",
+    "@langchain/langgraph": "^0.2.38",
+    "@langchain/openai": "^0.3.17",
+    "dotenv": "^16.4.7",
+    "openai": "^4.91.1"
+  },
+  "type": "module"
+}
