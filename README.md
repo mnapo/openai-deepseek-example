@@ -1,12 +1,12 @@
 Prueba del API de deepsek para OpenAI.
 
-# DEPENDENCIAS
+## DEPENDENCIAS
 * openai
 * deepseek
 * dotenv
 
-# INSTALACION
+## INSTALACION
 * Asignar el API key de DeepSeek en el archivo .env
 
-#USO
+## USO
 * node index.js
